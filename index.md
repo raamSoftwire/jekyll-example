@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My first GH Page!
 
 You can use the [editor on GitHub](https://github.com/raamSoftwire/jekyll-example/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
